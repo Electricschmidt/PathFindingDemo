@@ -1,0 +1,13 @@
+C:\Code\PathFindingDemo\PathFindingDemo\bin\Debug\netcoreapp3.1\PathFindingDemo.exe
+C:\Code\PathFindingDemo\PathFindingDemo\bin\Debug\netcoreapp3.1\PathFindingDemo.deps.json
+C:\Code\PathFindingDemo\PathFindingDemo\bin\Debug\netcoreapp3.1\PathFindingDemo.runtimeconfig.json
+C:\Code\PathFindingDemo\PathFindingDemo\bin\Debug\netcoreapp3.1\PathFindingDemo.runtimeconfig.dev.json
+C:\Code\PathFindingDemo\PathFindingDemo\bin\Debug\netcoreapp3.1\PathFindingDemo.dll
+C:\Code\PathFindingDemo\PathFindingDemo\bin\Debug\netcoreapp3.1\PathFindingDemo.pdb
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.csprojAssemblyReference.cache
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.AssemblyInfoInputs.cache
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.AssemblyInfo.cs
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.csproj.CoreCompileInputs.cache
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.dll
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.pdb
+C:\Code\PathFindingDemo\PathFindingDemo\obj\Debug\netcoreapp3.1\PathFindingDemo.genruntimeconfig.cache
